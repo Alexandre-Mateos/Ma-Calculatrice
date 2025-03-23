@@ -46,7 +46,7 @@ resultat.onclick = function () {
     isNaN(affichage[affichage.length - 1]) ||
     erreurDeSaisie === true
   ) {
-    let message = "Erreur de syntaxe";
+    let message = "Erreur";
     affichage.length = 0;
     document.getElementById("ecran2").textContent = message;
     document.getElementById("ecran1").textContent = message;
