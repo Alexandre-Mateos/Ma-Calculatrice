@@ -46,3 +46,9 @@ button {
 .boxResultat {
   grid-column: 2/4;
 }
+
+@media (max-width: 768px) {
+  body {
+    width: 100%;
+  }
+}
