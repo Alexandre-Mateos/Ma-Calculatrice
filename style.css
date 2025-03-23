@@ -50,8 +50,8 @@ button {
 @media (max-width: 768px) {
   body {
     width: 100%;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
   }
   .conteneur {
     display: grid;
